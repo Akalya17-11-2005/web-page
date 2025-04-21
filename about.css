@@ -1,0 +1,12 @@
+h1{
+    color: black;
+}
+body{
+    background-color:lightcoral;
+    border: 1PX solid;
+    border-color: lightcoral;
+}
+button{
+    width: 150px;
+    background-color: lightcoral;
+}

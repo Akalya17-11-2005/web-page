@@ -1,0 +1,42 @@
+body {
+    border: 1px solid;
+    border-color:skyblue ;
+    background-color: skyblue;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav {
+    background-color:darkblue;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    display: flex;
+    gap: 15px;   
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  nav ul li a:hover {
+    text-decoration: underline;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  h1{
+    text-align: center;
+  }
+  button{
+    width: 200px;;
+    background-color:lightblue;
+    border-color: skyblue ;
+  }

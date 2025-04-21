@@ -1,0 +1,12 @@
+img{
+    width: 100px ;
+}
+body{
+    background-color: aquamarine;
+    border: 1px solid;
+    border-color: aquamarine;
+}
+button{
+    width: 150px;
+    background-color: aquamarine;
+}
